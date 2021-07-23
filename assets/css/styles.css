@@ -639,6 +639,11 @@ img{
     justify-content: space-between;
     gap:5rem;
 }
+
+.portfolio__data{
+    margin-left:4rem;
+}
+
 .portfolio__content{
     padding: 0 1.5rem;
 }
