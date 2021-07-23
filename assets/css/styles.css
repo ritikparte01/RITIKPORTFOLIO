@@ -637,12 +637,6 @@ img{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap:5rem;
-}
-
-.portfolio__data{
-    margin-left:4rem;
-    padding-left:4rem;
 }
 
 .portfolio__content{
